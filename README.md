@@ -1,6 +1,6 @@
 # retail_demo
 
-A new Flutter project.
+A skeleton for retail application using flutter
 
 ## Getting Started
 
